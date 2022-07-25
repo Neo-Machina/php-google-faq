@@ -38,7 +38,42 @@
 </head>
 <body>
     <!-- HEADER -->
-    <header></header>
+    <header>
+        <div>
+            <img src="https://iconape.com/wp-content/files/ee/64781/svg/google-2015.svg" alt="google_logo">
+            <span class="title_logo">Privacy & Termini</span>
+        </div>
+
+        
+            <ul class="list_item">
+                <li>
+                    <a href="#">
+                        Introduzione
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Norme sulla privacy
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Termini di servizio
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Tecnologie
+                    </a>
+                </li>
+                <li class="last_item">
+                    <a href="#">
+                        Domande frequenti
+                    </a>
+                </li>
+            </ul>
+        
+    </header>
 
     <!-- MAIN -->
     <main>
